@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CISW 321 - Lisa Nguyen</title>
+<link href="../styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header> 
+	<h1>Lisa Nguyen - CISW 321 - Professor Hayes</h1>	
+	<nav><!-- TemplateBeginEditable name="Nav" -->
+	  <ul>
+	    <li><a href="#">Book</a></li>
+	    |
+	    <li><a href="#">Assignments</a></li>
+	    |
+	    <li><a href="#">Contact</a></li>
+    </ul>
+	<!-- TemplateEndEditable --></nav>
+</header>	
+		
+<!-- TemplateBeginEditable name="Contain" --><div class="row-a">
+	<img src="../images/ARC_Building.jpg" width="100%" height="750px" alt="ARC building">	
+	<div class="arc_logo"> 
+		<img src="../images/ARC_logo.png" width="350" height="173" alt="ARC text logo">
+	</div>
+</div><!-- TemplateEndEditable -->
+<footer>
+	  <h4 class="footer">&copy; 2019 Lisa Nguyen</h4>
+	</footer>
+
+		
+
+	
+<!--	
+<h4>Assignment - My Website</h4>
+<ul>
+  <li><a href="mystuff/project1.html">Project 1</a></li>
+	<li><a href="mystuff/project2/project2.html">Project 2</a></li>
+</ul>
+<h4>Book Chapters</h4>
+<ul>
+  <li>Lesson 3</li>
+  <li>Lesson 4</li>
+  <li><a href="bookchapters/lesson05/layout.html">Lesson 5</a></li>
+  <li><a href="bookchapters/lesson06/about-us.html">Lesson 6</a></li>
+  <li>Lesson 7</li>
+  <li>Lesson 8</li>
+  <li>Lesson 9</li>
+  <li>Lesson 10</li>
+  <li>Lesson 11</li>
+  <li>Lesson 12</li>
+</ul>
+-->
+</body>
+</html>

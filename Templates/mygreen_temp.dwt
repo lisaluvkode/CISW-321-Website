@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Add Title Here-Meridien GreenStart Association</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+
+</style>
+<link href="../bookchapters/lesson06/mygreen-styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<meta name="description" content="Meridien GreenStart Association - add description her">
+<!-- TemplateEndEditable -->
+
+</head>
+
+<body>
+<div class="wrapper">
+<nav>
+  <ul>
+    <li><a href="../bookchapters/lesson09/index.html">Home</a></li>
+    <li><a href="../bookchapters/lesson09/news.html">Green News</a></li>
+    <li><a href="../bookchapters/lesson09/events.html">Green Events</a></li>
+    <li><a href="../bookchapters/lesson10/travel.html">Green Travel</a></li>
+    <li><a href="../bookchapters/lesson10/tips.html">Green Tips</a></li>
+    <li><a href="../bookchapters/lesson09/contact-us.html">Contact Us</a></li>
+    <li><a href="../bookchapters/lesson09/about-us.html">About Us</a></li>
+  </ul>
+</nav>
+<header>
+<h2><a href="../bookchapters/lesson09/index.html">green<span class="logowhite">start</span></a></h2>
+<p>GREEN AWARENESS IN ACTION </p>
+</header>
+<main>
+<aside class="sidebar1"><!-- TemplateBeginEditable name="sidebar1" -->
+  <blockquote>
+    <p>&quot;Add quotation here.&quot; </p>
+    <cite>Add author here</cite></blockquote>
+<!-- TemplateEndEditable --></aside>
+<section>
+<!-- TemplateBeginEditable name="main_content" -->
+<h1>Add main heading here</h1>
+<article>
+  <h2><strong>Add article heading here</strong></h2>
+  <p><strong>Add content here.</strong></p>
+</article>
+<!-- TemplateEndEditable --></section>
+<!-- TemplateBeginEditable name="sidebar2" -->
+	<aside class="sidebar2"> <p>Add sidebar content here. </p></aside>
+<!-- TemplateEndEditable --></main>
+<footer><p>&copy; 2019 Meridien GreenStart. All rights reserved. </p></footer>
+</div>
+</body>
+</html>
